@@ -1,0 +1,32 @@
+.container {
+    max-width: 1170px;
+    width: 100%;
+    background: #f7f7f7;
+    margin: 0 auto;
+}
+.btn-skin {
+    color: #fff;
+    background-color: #1bbca3;
+    border-color: #1bbca3;
+}
+.btn-skin:hover {
+    color: #fff;
+    background-color: #666;
+    border-color: #666;
+}
+
+/*contact section*/
+.contact-section .form-container {
+    padding-bottom: 80px;
+}
+.footer {
+    position: fixed;
+    padding-bottom :10px;
+    padding-top :10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #200601;
+    color: white;
+    text-align: center;
+ }
